@@ -1,0 +1,11 @@
+//Hi All 
+//This is the intial Application code
+
+<html>
+<head>
+<title>Web Application</title>
+</head>
+<body>
+<h1>Welcome to the Web page</h1>
+</body>
+</html>
