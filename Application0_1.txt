@@ -7,5 +7,9 @@
 </head>
 <body>
 <h1>Welcome to the Web page</h1>
+//development in progress stage 1
+<h1>UserName</h1><input type=text placeholder="Enter the Username"/>
 </body>
 </html>
+
+
