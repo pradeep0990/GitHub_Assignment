@@ -9,6 +9,8 @@
 <h1>Welcome to the Web page</h1>
 //development in progress stage 1
 <h1>UserName</h1><input type=text placeholder="Enter the Username"/>
+//development in progress stage 2
+<h1>Password </h1><input type=password placeholder="Enter the password"/>
 </body>
 </html>
 
