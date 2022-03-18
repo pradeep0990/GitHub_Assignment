@@ -1,11 +1,10 @@
 //Hi All 
-//This is the intial Application code
+//This is the Future Release-2
 
 <html>
 <head>
 <title>Web Application</title>
 </head>
-//Feature for future release
 <body>
 <h1>Welcome to the Web page</h1>
 //development in progress stage 1
@@ -14,6 +13,8 @@
 <h1>Password </h1><input type=password placeholder="Enter the password"/>
 //development in progress stage 3
 <button type=submit onClick=Function()>Submit</button>
+//Future feature-2
+<button type=submit onClick=forgetPassword()>Forget Password </button>
 </body>
 </html>
 
