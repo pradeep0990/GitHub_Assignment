@@ -1,8 +1,8 @@
 //Hi All 
-//This is the Release_Branch-1
+//This is the Release_Branch-2
 <html>
 <head>
-<title>Web Application</title>
+<title>Login Web Application</title>
 </head>
 <Script>
 function Login(){
@@ -16,7 +16,7 @@ message.log("Access Denied");
 <h1>Welcome to the Login Web page</h1>
 <h1>UserName</h1><input type=text placeholder="Enter the Username"/>
 <h1>Password </h1><input type=password placeholder="Enter the password"/>
-<button type=submit onClick=Function()>Login</button>
+<button type=submit onClick=Login()>Login</button>
 </body>
 </html>
 
