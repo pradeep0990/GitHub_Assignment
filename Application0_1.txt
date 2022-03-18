@@ -1,5 +1,5 @@
 //Hi All 
-//This is the Future Release-3
+//This is the Future Release-4
 
 <html>
 <head>
@@ -7,7 +7,7 @@
 </head>
 <Script>
 Function forgetpassword(){
-
+message.log("Send an email to mpadmin0990@gmail.com");
 }
 </Script>
 <body>
