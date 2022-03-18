@@ -1,13 +1,16 @@
 //Hi All 
-//This is the intial Application code
-
+//This is the Major Release-3
 <html>
 <head>
 <title>Web Application</title>
 </head>
 //Major Feature for future release
 <Script>
-function Function(){
+function Login(){
+if(name=="admin" && password=="Admin@123"){
+message.log("Access Granted");
+else
+message.log("Access Denied");
 }
 </Script>
 <body>
