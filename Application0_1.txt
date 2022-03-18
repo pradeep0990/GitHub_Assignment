@@ -6,6 +6,7 @@
 <title>Web Application</title>
 </head>
 <body>
-<h1>Welcome to the Web page</h1>
+//Edited in HotFix
+<h1>Welcome to the Login Web page</h1>
 </body>
 </html>
