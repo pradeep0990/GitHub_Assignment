@@ -1,11 +1,13 @@
 //Hi All 
-//This is the development Stage-6
+//This is the development Stage-7
 <html>
 <head>
 <title>Login Web Application</title>
 </head>
 <Script>
 function Login(){
+var name=document.getElementById("name");
+var password=document.getElementById("password");
 if(name=="admin" && password=="Admin@123"){
 message.log("Access Granted");
 else
