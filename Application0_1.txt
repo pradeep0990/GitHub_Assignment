@@ -1,12 +1,12 @@
 //Hi All 
-//This is the intial Application code
-
+//This is the development stage-5
 <html>
 <head>
 <title>Web Application</title>
 </head>
 <body>
-<h1>Welcome to the Web page</h1>
+//BugFix in Development
+<h1>Welcome to the Login Web page</h1>
 //development in progress stage 1
 <h1>UserName</h1><input type=text placeholder="Enter the Username"/>
 //development in progress stage 2
