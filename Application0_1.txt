@@ -1,5 +1,5 @@
 //Hi All 
-//This is the development stage-6
+//This is the Release_Branch-1
 <html>
 <head>
 <title>Web Application</title>
@@ -13,14 +13,9 @@ message.log("Access Denied");
 }
 </Script>
 <body>
-//BugFix in Development
 <h1>Welcome to the Login Web page</h1>
-//development in progress stage 1
 <h1>UserName</h1><input type=text placeholder="Enter the Username"/>
-//development in progress stage 2
 <h1>Password </h1><input type=password placeholder="Enter the password"/>
-//development in progress stage 3
-//edited in stage 4
 <button type=submit onClick=Function()>Login</button>
 </body>
 </html>
