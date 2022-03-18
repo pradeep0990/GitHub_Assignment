@@ -1,5 +1,5 @@
 //Hi All 
-//This is the Release_Branch-3
+//This is the Release_Branch-4
 <html>
 <head>
 <title>Login Web Application</title>
@@ -7,6 +7,7 @@
 <Script>
 function Login(){
 var name=document.getElementById("name");
+var password=document.getElementById("password");
 if(name=="admin" && password=="Admin@123"){
 message.log("Access Granted");
 else
