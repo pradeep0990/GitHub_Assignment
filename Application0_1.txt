@@ -12,7 +12,8 @@
 //development in progress stage 2
 <h1>Password </h1><input type=password placeholder="Enter the password"/>
 //development in progress stage 3
-<button type=submit onClick=Function()>Submit</button>
+//edited in stage 4
+<button type=submit onClick=Function()>Login</button>
 </body>
 </html>
 
