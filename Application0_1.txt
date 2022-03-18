@@ -1,5 +1,6 @@
 //Hi All 
-//This is the Major release version-1.0
+//This is the New Updated Version
+//This is written by Pradeep 
 <html>
 <head>
 <title>Login Web Application</title>
@@ -13,12 +14,17 @@ message.log("Access Granted");
 else
 message.log("Access Denied");
 }
+Function forgetpassword(){
+message.log("Send an email to mpadmin0990@gmail.com");
+}
+
 </Script>
 <body>
 <h1>Welcome to the Login Web page</h1>
-<h1>UserName</h1><input type=text placeholder="Enter the Username"/>
-<h1>Password </h1><input type=password placeholder="Enter the password"/>
+<h1>UserName</h1><input type=text value="name" id="name" placeholder="Enter the Username"/>
+<h1>Password </h1><input type=password value="password" id="password" placeholder="Enter the password"/>
 <button type=submit onClick=Login()>Login</button>
+<button type=submit onClick=forgetPassword()>Forget Password </button>
 </body>
 </html>
 
